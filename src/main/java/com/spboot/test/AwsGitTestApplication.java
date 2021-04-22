@@ -10,4 +10,4 @@ public class AwsGitTestApplication {
 		SpringApplication.run(AwsGitTestApplication.class, args);
 	}
 
-}
+} 
